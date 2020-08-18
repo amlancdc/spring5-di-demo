@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: kabita
+    password: kabita123
+    dburl: dsgdsf
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: Germankabita

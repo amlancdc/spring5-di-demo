@@ -1,0 +1,36 @@
+# this is a comment
+
+name: Amlan
+
+names: #Comment
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_trueth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is a string"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asd asd ads
+  dfdsfdsf
+  dsfdsf
+_
+ignore_new_lines: >
+  sadasdasd
+  sadasd
+  asdasd
